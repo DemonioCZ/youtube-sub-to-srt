@@ -25,4 +25,6 @@ Open file f.txt and copy/past the text in textarea in browser
 
 Click on the button
 
+Copy/past subtitles from browser to blank .srt file in your pc, or download test.srt file (must be created before) from server.
+
 Thats all!
